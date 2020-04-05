@@ -1,5 +1,6 @@
-# Skyblock
-Skyblock client 
+# Skyblock HYpixel
+
+How to install Skyblock client 
 
 1: Download it and open it with winrar 
 
