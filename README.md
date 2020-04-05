@@ -10,4 +10,21 @@ How to install Skyblock client
 
 4: Launch that and the u have it installed
 
-5: go to https://i.gyazo.com/8af933f6b9431fcbec7a18eaafb2741d.png to se all the spects
+Go to https://i.gyazo.com/8af933f6b9431fcbec7a18eaafb2741d.png to se all the spects
+
+The client have included some awesome things too like : 
+
+-> SKYBLOCK ADDONS 
+
+-> ZEALOT COUNTER 
+
+-> TALISMAN OPTIMIZER  
+
+-> OPTIFINE 
+
+-> BETTER FPS
+
+-> MEMORY FIX 
+
+-> VOID CHAT
+
