@@ -1,4 +1,4 @@
-# Skyblock HYpixel
+# Skyblock Hypixel client 
 
 How to install Skyblock client 
 
