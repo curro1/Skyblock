@@ -1,11 +1,10 @@
 # Skyblock
 Skyblock client 
-How to install the client:
 
-1: Download it and open it whith winrar 
+1: Download it and open it with winrar 
 
-2: Copy the folder and paste the folder in %appdata% .minecraft inside versions folder 
+2: Copy the folder and paste the folder in %appdata%  .Minecraft inside version's folder
 
-3: Close all minecrft and go to minecrft launcher and search in installations the hypixel 
+3: Close all minecraft and go to the launcher and search in installations the hypixel client
 
-client one open that one and u have it installed
+4: Launch that and the u have it installed
