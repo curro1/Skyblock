@@ -2,7 +2,7 @@
 
 How to install Skyblock client 
 
-1: Download it and open it with winrar 
+1:  Click in the FPF CLIENT and then  Download it and open it with winrar 
 
 2: Copy the folder and paste that folder in %appdata%  .Minecraft inside version's folder
 
